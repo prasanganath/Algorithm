@@ -1,1 +1,1 @@
-This repo using for discribe all algorithm.
+This repo using for discribe all algorithms.
